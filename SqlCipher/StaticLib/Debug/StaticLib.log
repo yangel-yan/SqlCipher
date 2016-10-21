@@ -1,0 +1,11 @@
+﻿生成启动时间为 2013/8/2 12:42:08。
+     1>项目“C:\Users\yangel\Downloads\SqlCipher\StaticLib\StaticLib.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(C:\Users\yangel\Downloads\SqlCipher\StaticLib\Debug\Sqlcipherha.lib) does not match the Library's OutputFile property value (C:\Users\yangel\Downloads\SqlCipher\StaticLib\Debug\sqlcipher-debug.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(Sqlcipherha) does not match the Library's OutputFile property value (sqlcipher-debug). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>Lib:
+         StaticLib.vcxproj -> C:\Users\yangel\Downloads\SqlCipher\StaticLib\Debug\Sqlcipherha.lib
+     1>已完成生成项目“C:\Users\yangel\Downloads\SqlCipher\StaticLib\StaticLib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.25

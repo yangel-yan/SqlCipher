@@ -1,0 +1,14 @@
+﻿生成启动时间为 2013/8/2 13:14:48。
+     1>项目“C:\Users\yangel\Downloads\SqlCipher\Shell\Shell.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt ..\_src\shell.c
+         shell.c
+       Link:
+         E:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\sqlcipher.exe" /INCREMENTAL /NOLOGO "..\_lib\sqlcipher-openssl-debug.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\sqlcipher-openssl-debug.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\sqlcipher.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO Debug\shell.obj
+         "C:\Users\yangel\Downloads\SqlCipher\StaticLib\Debug\sqlcipher-debug.lib"
+         Shell.vcxproj -> C:\Users\yangel\Downloads\SqlCipher\Shell\Debug\sqlcipher.exe
+     1>已完成生成项目“C:\Users\yangel\Downloads\SqlCipher\Shell\Shell.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.63

@@ -1,0 +1,8 @@
+﻿生成启动时间为 2013/8/2 12:39:56。
+     1>项目“C:\Users\yangel\Downloads\SqlCipher\StaticLib\StaticLib.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.MakeFile.Targets(37,5): warning MSB8005: The property 'NMakeBuildCommandLine' doesn't exist.  Skipping...
+     1>已完成生成项目“C:\Users\yangel\Downloads\SqlCipher\StaticLib\StaticLib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.16
