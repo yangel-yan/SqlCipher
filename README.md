@@ -1,4 +1,4 @@
-# SciPher
+# SqlCipher
 整理SQLcipher后编译成功后生成的项目，可以直接导入VS2012后编译出.exe
 
 可以解密Sqlite加密的db文件，例如微信
